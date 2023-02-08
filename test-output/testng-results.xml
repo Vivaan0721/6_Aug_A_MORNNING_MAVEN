@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-02-05T14:52:34 IST" name="Default suite" finished-at="2023-02-05T14:53:48 IST" duration-ms="73910">
+    <groups>
+    </groups>
+    <test started-at="2023-02-05T14:52:34 IST" name="Default test" finished-at="2023-02-05T14:53:48 IST" duration-ms="73910">
+      <class name="Module1_Test.Guru99_Insurance_TestNG_TestClass">
+        <test-method is-config="true" signature="OpenBrowser()[pri:0, instance:Module1_Test.Guru99_Insurance_TestNG_TestClass@8dbdac1]" started-at="2023-02-05T14:52:34 IST" name="OpenBrowser" finished-at="2023-02-05T14:52:42 IST" duration-ms="7257" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenBrowser -->
+        <test-method is-config="true" signature="Login()[pri:0, instance:Module1_Test.Guru99_Insurance_TestNG_TestClass@8dbdac1]" started-at="2023-02-05T14:52:42 IST" name="Login" finished-at="2023-02-05T14:52:59 IST" duration-ms="17284" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method signature="CalculatePremium()[pri:0, instance:Module1_Test.Guru99_Insurance_TestNG_TestClass@8dbdac1]" started-at="2023-02-05T14:52:59 IST" name="CalculatePremium" finished-at="2023-02-05T14:53:18 IST" duration-ms="19451" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CalculatePremium -->
+        <test-method is-config="true" signature="Logout(org.testng.ITestResult)[pri:0, instance:Module1_Test.Guru99_Insurance_TestNG_TestClass@8dbdac1]" started-at="2023-02-05T14:53:18 IST" name="Logout" finished-at="2023-02-05T14:53:22 IST" duration-ms="3821" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=CalculatePremium status=SUCCESS method=Guru99_Insurance_TestNG_TestClass.CalculatePremium()[pri:0, instance:Module1_Test.Guru99_Insurance_TestNG_TestClass@8dbdac1] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Logout -->
+        <test-method is-config="true" signature="Login()[pri:0, instance:Module1_Test.Guru99_Insurance_TestNG_TestClass@8dbdac1]" started-at="2023-02-05T14:53:22 IST" name="Login" finished-at="2023-02-05T14:53:31 IST" duration-ms="8301" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method signature="getTitle()[pri:0, instance:Module1_Test.Guru99_Insurance_TestNG_TestClass@8dbdac1]" started-at="2023-02-05T14:53:31 IST" name="getTitle" finished-at="2023-02-05T14:53:31 IST" duration-ms="416" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getTitle -->
+        <test-method is-config="true" signature="Logout(org.testng.ITestResult)[pri:0, instance:Module1_Test.Guru99_Insurance_TestNG_TestClass@8dbdac1]" started-at="2023-02-05T14:53:31 IST" name="Logout" finished-at="2023-02-05T14:53:36 IST" duration-ms="4875" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=getTitle status=SUCCESS method=Guru99_Insurance_TestNG_TestClass.getTitle()[pri:0, instance:Module1_Test.Guru99_Insurance_TestNG_TestClass@8dbdac1] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Logout -->
+        <test-method is-config="true" signature="Login()[pri:0, instance:Module1_Test.Guru99_Insurance_TestNG_TestClass@8dbdac1]" started-at="2023-02-05T14:53:36 IST" name="Login" finished-at="2023-02-05T14:53:42 IST" duration-ms="5883" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method signature="verifytEmailAddressofGuru99()[pri:0, instance:Module1_Test.Guru99_Insurance_TestNG_TestClass@8dbdac1]" started-at="2023-02-05T14:53:42 IST" name="verifytEmailAddressofGuru99" finished-at="2023-02-05T14:53:42 IST" duration-ms="194" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifytEmailAddressofGuru99 -->
+        <test-method is-config="true" signature="Logout(org.testng.ITestResult)[pri:0, instance:Module1_Test.Guru99_Insurance_TestNG_TestClass@8dbdac1]" started-at="2023-02-05T14:53:42 IST" name="Logout" finished-at="2023-02-05T14:53:45 IST" duration-ms="2708" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifytEmailAddressofGuru99 status=SUCCESS method=Guru99_Insurance_TestNG_TestClass.verifytEmailAddressofGuru99()[pri:0, instance:Module1_Test.Guru99_Insurance_TestNG_TestClass@8dbdac1] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Logout -->
+        <test-method is-config="true" signature="CloseBrowser()[pri:0, instance:Module1_Test.Guru99_Insurance_TestNG_TestClass@8dbdac1]" started-at="2023-02-05T14:53:45 IST" name="CloseBrowser" finished-at="2023-02-05T14:53:48 IST" duration-ms="3456" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+      </class> <!-- Module1_Test.Guru99_Insurance_TestNG_TestClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
